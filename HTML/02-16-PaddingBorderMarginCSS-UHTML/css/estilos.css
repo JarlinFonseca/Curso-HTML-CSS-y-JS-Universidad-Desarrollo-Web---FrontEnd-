@@ -1,0 +1,26 @@
+h1{
+    color: #e63946; 
+    text-align: center;
+ }
+ p{
+     color: #457b9d;
+     background-color: #f1faee;
+     padding: 15px;
+     border: 10px solid #1d3557;
+     /* margin:50px; */
+
+     /* margin-top: 40px;
+     margin-right: 10px;
+     margin-bottom: 20px;
+     margin-left: 10px; */
+
+     /* margin: 40px 15px 20px 10px; 
+     margin: 40px 10px 20px; */ /*top  right-left buttom */
+     margin: 40px 10px; /*top-buttom   right-left*/
+
+     margin: auto 50px; /* Centrar elementos */
+     text-align: center; /* Centrar texto */
+
+
+
+ }
