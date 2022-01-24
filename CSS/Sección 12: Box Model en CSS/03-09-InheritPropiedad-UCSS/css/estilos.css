@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: #e63946;
+}
+div{
+    padding: 10px 15px 5px 3px;
+    border: 1px solid #457b9d;
+    margin-left: 100px;
+    background-color: #f1faee;
+    max-width: 300px;
+    box-sizing: border-box;
+}
+p.interno{
+    margin-left: inherit;
+}
