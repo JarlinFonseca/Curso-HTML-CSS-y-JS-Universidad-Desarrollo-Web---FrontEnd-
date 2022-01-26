@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+div{
+    max-width: 50%;
+    border: 3px solid firebrick;
+    margin: 0 auto;
+}

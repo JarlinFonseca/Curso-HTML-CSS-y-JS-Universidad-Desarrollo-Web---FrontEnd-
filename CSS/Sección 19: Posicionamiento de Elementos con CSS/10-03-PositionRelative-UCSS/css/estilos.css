@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+div{
+    position: relative;
+    top:100px;
+    left:50px;
+    max-width: 50%;
+    border: 3px solid firebrick;
+    margin: auto;
+}

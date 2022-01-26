@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+div{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;    
+    border: 3px solid firebrick;
+}
