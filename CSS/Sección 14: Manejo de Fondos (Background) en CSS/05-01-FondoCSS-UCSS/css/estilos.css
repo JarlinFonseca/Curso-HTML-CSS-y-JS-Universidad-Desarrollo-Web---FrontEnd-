@@ -1,0 +1,7 @@
+body{
+    background-color: dodgerblue;
+    color: cornsilk;
+    background-image: url("../img/fondo.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

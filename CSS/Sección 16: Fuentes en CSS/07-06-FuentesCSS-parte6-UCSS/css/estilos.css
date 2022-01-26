@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato|Source+Sans+Pro');
+
+h1{
+    color: #ef476f;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #ced4da;
+}
+.caja{
+    padding: 5px;
+    width: 40%;
+    height: 80px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+}
+.caja.fuente1{
+    background-color: #5a189a;
+}
+.caja.fuente2{
+    background-color: #00b4d8;
+}
+.fuente_lato{
+    font-family: 'Lato', sans-serif;
+}
+.fuente_sans_pro{
+    font-family: 'Source Sans Pro', sans-serif;;
+}
